@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+python-dotenv
+pytz
+python-dateutil
+wordllama
+safetensors
+tokenizers
+numpy
