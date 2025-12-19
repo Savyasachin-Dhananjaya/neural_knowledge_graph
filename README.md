@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ### 3. Model Configuration
 
-The server supports two modes. Edit `server.py` to select one:
+The server supports two modes. Edit `main.py` to select one:
 
 * **Standard Mode (Recommended):** Uses `l3_supercat` (Llama 3 distilled). Auto-downloads on first run.
 ```
