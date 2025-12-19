@@ -70,7 +70,7 @@ WL_CONFIG = "l3_supercat"
 ```
 
 
-* **Custom Mode (Advanced):** Uses your fine-tuned `wordgemma` weights. Requires `tokenizer.json` and `.safetensors` file in the root directory.
+* **Custom Mode (Advanced):** Uses your fine-tuned `wordllama` weights. Requires `tokenizer.json` and `.safetensors` file in the root directory.
 
 ## 🏃‍♂️ Usage
 
